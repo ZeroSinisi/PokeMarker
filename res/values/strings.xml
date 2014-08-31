@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PokeMarker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="circle">●</string>
+    <string name="triangle">▲</string>
+    <string name="square">■</string>
+    <string name="heart">♥</string>
+    <string name="star">★</string>
+    <string name="diamond">♦</string>
+    <string name="pokemon">Pokémon</string>
+
+</resources>
